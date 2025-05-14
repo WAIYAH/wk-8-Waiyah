@@ -5,8 +5,8 @@ def get_db_connection():
     try:
         connection = mysql.connector.connect(
             host="localhost",
-            user="root",  # Replace with your MySQL username
-            password="your_password",  # Replace with your MySQL password
+            user="root",  # MySQL username
+            password="MySql.124@2024",  # MySQL password
             database="LibraryManagement"
         )
         if connection.is_connected():
