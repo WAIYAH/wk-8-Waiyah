@@ -40,7 +40,7 @@ This project implements a Library Management System with a MySQL database and a 
    - `DELETE /books/{book_id}`: Delete a book.
 
 ## Screenshot or Link to ERD
-- **ERD**: The Entity-Relationship Diagram is available at img/erd.png.
+- **ERD**: The Entity-Relationship Diagram is available at img/Bookstore.drawio
 
 ## SQL Script
 The `library_db.sql` file contains the database schema and sample data.
